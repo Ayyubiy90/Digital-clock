@@ -30,7 +30,7 @@ The digital clock updates automatically to show the current time. No additional 
 
 ## Example
 
-You can see a live example of the digital clock by clicking [here](https://example.com).
+You can see a live example of the digital clock by clicking [here](https://ayyubiy90.github.io/Digital-clock/).
 
 ## Customization
 
